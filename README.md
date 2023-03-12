@@ -20,7 +20,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 | Languages/Applications   |      Major Libraries      |  
 |----------|:-------------:|
-| Python|  abc/Numpy&/unit
+| Python|  abc<br>Numpy&/unit
   |
 | |  Numpy|
 | |  unittest|
