@@ -9,7 +9,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 ## Classification of Breast Tissue Samples using Statistical Methods
 
 | Content | Languages|Applications | Major Libraries |
-|:----------------|:--------------| -----------|----------|
+|:----------------|:--------------:| -----------|----------|
 |  __Project goal:__ Developing classifiers for predicting cancer presence in breast tissue samples using cytological characteristics data.<br><br>__Data:__ Cytological characteristics data from breast tissue samples.<br><br>__Objective:__ Building classifiers using statistical methods such as logistic regression and linear discriminant analysis (LDA) and evaluating their performance through cross-validation.<br><br> __Outcome:__ The project successfully developed classifiers to predict breast cancer presence using statistical methods, and demonstrated the effectiveness of these methods in identifying predictors of cancer presence. <br><br> __Theoretical:__ A mathemcatical question relating to logistic regression and linear discriminant analysis was also answered. | R |Rstudio <br><br>   Rmarkdown | bestglm<br><br>glmnet<br><br>MASS |
 
 
