@@ -5,11 +5,17 @@ A collection of projects undertaken in MSc Data Science (Statistics)
 
 Each project below outlines the objective, methods used and a data set (if legally availbale to share)
 
+## Time Series Analysis & Forecasting of Monthly Product Sales
+| Content | Languages|Applications | Major Libraries |
+|:----------------|:--------------:| -----------|----------|
+|  __Project goal:__ To analyze and forecast monthly sales data for a product over a period of ten years and identify the best statistical model for predicting future sales based on historical sales data.<br><br>__Data:__ Monthly sales data for a product over a period of ten years.<br><br>__Objective:__ To identify the most accurate statistical model for predicting future sales by fitting several models to the sales data, including ARIMA models, time series regression models, and dynamic linear models (DLMs), and evaluating the performance of these models using various error metrics.<br><br> __Outcome:__ Identification of the 'best' prediction model and using this to forecast the next 6 months of data. <br><br> __Theoretical:__ Two mathematical questions related to time series theory. These questions added an academic component to the project and allowed for a deeper understanding of the statistical models used in the analysis. | R |Rstudio <br><br>   Rmarkdown | bestglm<br><br>glmnet<br><br>MASS |
+
+
 ## Application of Learning Analytics to 'Massive Online Open Course' Data
 
  Content | Languages|Applications | Major Libraries 
 :----------------|:--------------:| -----------|----------
-|  __Project goal:__ Gain insights that could help course providers make improvements to the course content and delivery.<br><br>__Data:__ Cytological characteristics data from breast tissue samples.<br><br>__Objective:__ Utilize the **CRISP-DM** process to complete two cycles of data analysis, applying a wide range of skills learned from dplyr and ggplot2 to gain insights from the MOOC data set. Develop a comprehensive understanding of the data, analyze it, and derive insights that can improve the course content and delivery. Ensure that the project is reproducible by using Project Template and sharing the code and documentation.<br><br> __Outcome:__ A reprodcuible report providing strong insights into the MOOC dataset. | R |Rstudio <br><br>   Rmarkdown | ggplot2<br><br>dplyr<br><br>ProjectTemplate |
+|  __Project goal:__ Gain insights that could help course providers make improvements to the course content and delivery.<br><br>__Data:__ Cytological characteristics data from breast tissue samples.<br><br>__Objective:__ Utilize the **CRISP-DM** process to complete two cycles of data analysis, applying a wide range of skills learned from dplyr and ggplot2 to gain insights from the MOOC data set. Develop a comprehensive understanding of the data, analyze it, and derive insights that can improve the course content and delivery. Ensure that the project is reproducible by using Project Template and sharing the code and documentation.<br><br> __Outcome:__ A reprodcuible report providing strong insights into the MOOC dataset. | R |Rstudio <br><br> Rmarkdown | dlm|
 
 
 
