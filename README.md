@@ -19,7 +19,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 | Languages| Applications   |      Major Libraries      |  
 |:--------------------------|:--------|:-------------------------|
-| R                  |Rstudio<br>   -R markdown|                  bestglm<br>glmnet<br>MASS |
+| R                  |Rstudio <br>   -R markdown|                  bestglm<br>glmnet<br>MASS |
 
 
 ## Stock Management & Billing Application
