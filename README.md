@@ -3,7 +3,9 @@ A collection of projects undertaken in MSc Data Science (Statistics)
 
 7/8 projects completed with the masters still ongoing
 
-Each project below outlines the objective, methods used and a data set (if legally availbale to share)
+Each project below outlines the overall goal, project objective, methods used and a data set (if legally availbale to share)
+
+The code and folders for each project will be uploded once permission is accquired.
 
 ***
 
