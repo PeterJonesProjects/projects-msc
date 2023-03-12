@@ -7,17 +7,13 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 ## Stock Management & Billing Application
 
-<div align="left">
-
-*__Project goal:__ Developing a stock management system software to efficiently manage inventory and produce receipts.
-
-*__Data:__ The system reads in a CSV file of items and their details, which is then converted into a list. The system also allows users to add, edit, and delete item details, as well as search for items based on name, category, sell price, and perishability.
-
-*__Project objective:__ Designing a user-friendly and functional stock management system in Python that emphasizes good programming practices, including object orientation, unit testing, and exception handling.
-
-*__Project outcome:__ An efficient and well-designed stock management system that provides multiple functions to suit different inventory management needs. The system is user-friendly, allowing users to modify and update their inventory as needed without requiring any code to be run. The system also includes clear code documentation and naming conventions, making it easy for users to navigate and understand the application.
+* __Project goal:__ An introduction to software engineering. Develop a user-friendly stock management system to efficiently manage inventory and produce receipts.
+*  __  Data:__  The system reads in a CSV file of items and their details and converts it to a list.
+* __Features:__ Full user input, no need to run any code. Six functions available, including full stock list and creating receipts. Search function returns a list of matching items and their details.
+* __Programming practices:__ Emphasizes object orientation, unit testing, and exception handling. Clear code documentation and naming conventions.
+* __Outcome:__ An excellent tool for businesses to efficiently manage their inventory. Provides multiple functions to suit different inventory management needs. Well-designed and easy to modify/update inventory as needed.
   
-</div>
+
 
 <div align="right">
 
@@ -25,16 +21,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 |:----------|:-------------:|
 | Python   |  abc<br>Numpy<br>unittest<br>os|
 
-
 </div>
-
-
-
-
-
-
-
-
 
 
 
