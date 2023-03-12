@@ -41,6 +41,10 @@ Each project below outlines the objective, methods used and a data set (if legal
 |:----------|:-------------:|
 | Python   |  abc<br>Numpy<br>unittest<br>os|
 
+| Languages| Applications   |      Major Libraries      |  
+|:--------------------------|:--------|:-------------------------:|
+| Python                 |PyCharm|abc<br>Numpy<br>unittest<br>os|
+
 
 
 
