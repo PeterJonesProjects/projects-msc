@@ -58,6 +58,5 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 | Content |  Applications|
 |: ----------------|:--------------:|
-|      __Project goal:__ Visualizing the impact of an airborne disease outbreak through simulations..<br><br>  __Data:__ Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics.<br><br> __Objective:__ Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.
- <br><br> __Outcome:__ Effective visualization of the outbreak impact and uncertainty. Easily understandable for those not statistically literate.  |PowerBI   |
+| __Project goal:__ Visualizing the impact of an airborne disease outbreak through simulations.<br><br>__Data:__ Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics.<br><br>__Objective:__ Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.<br><br>__Outcome:__ Effective visualization of the outbreak impact and uncertainty. Easily understandable for those not statistically literate.  |PowerBI   |
 
