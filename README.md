@@ -15,15 +15,14 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 *__Project outcome:__ An efficient and well-designed stock management system that provides multiple functions to suit different inventory management needs. The system is user-friendly, allowing users to modify and update their inventory as needed without requiring any code to be run. The system also includes clear code documentation and naming conventions, making it easy for users to navigate and understand the application.
 
-
-<center>
+<div align="center">
 
 | Languages/Applications   |      Major Libraries      |  
 |:----------|:-------------:|
 | Python|  abc<br>Numpy<br>unittest<br>os|
 
 
-</center>
+</div>
 
 
 ## Visualisation of Epidemic Data
