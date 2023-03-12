@@ -12,7 +12,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 * __Data:__ Cytological characteristics data from breast tissue samples.
 
-* __Project objective:__ Building classifiers using statistical methods such as logistic regression and linear discriminant analysis (LDA) and evaluating their performance through cross-validation.
+* __Objective:__ Building classifiers using statistical methods such as logistic regression and linear discriminant analysis (LDA) and evaluating their performance through cross-validation.
 
 * __Outcome:__ The project successfully developed classifiers to predict breast cancer presence using statistical methods, and demonstrated the effectiveness of these methods in identifying predictors of cancer presence. A mathemcatical question relating to logistic regression and linear discriminant analysis was also answered.
 
@@ -52,9 +52,9 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 * __Data:__ Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics.
 
-* __Project objective:__ Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.
+* __Objective:__ Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.
 
-* __Project outcome:__ Effective visualization of the outbreak impact and uncertainty. Easily understandable for those not statistically literate. 
+* __Outcome:__ Effective visualization of the outbreak impact and uncertainty. Easily understandable for those not statistically literate. 
 
 
 
