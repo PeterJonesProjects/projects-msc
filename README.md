@@ -7,8 +7,8 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 ## Application of Learning Analytics to 'Massive Online Open Course' Data
 
-| Content | Languages|Applications | Major Libraries |
-|:----------------|:--------------:| -----------|----------|
+ Content | Languages|Applications | Major Libraries 
+:----------------|:--------------:| -----------|----------
 |  __Project goal:__ Gain insights that could help course providers make improvements to the course content and delivery.<br><br>__Data:__ Cytological characteristics data from breast tissue samples.<br><br>__Objective:__ Utilize the **CRISP-DM** process to complete two cycles of data analysis, applying a wide range of skills learned from dplyr and ggplot2 to gain insights from the MOOC data set. Develop a comprehensive understanding of the data, analyze it, and derive insights that can improve the course content and delivery. Ensure that the project is reproducible by using Project Template and sharing the code and documentation.<br><br> __Outcome:__ A reprodcuible report providing strong insights into the MOOC dataset. | R |Rstudio <br><br>   Rmarkdown | ggplot2<br><br>dplyr<br><br>ProjectTemplate |
 
 
