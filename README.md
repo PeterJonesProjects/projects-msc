@@ -15,7 +15,7 @@ Each project below outlines the objective, methods used and a data set (if legal
   
 
 
-<div align="right">
+<div align="Center">
 
 | Languages/ Applications   | Major Libraries|  
 |:----------|:-------------:|
