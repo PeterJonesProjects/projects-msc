@@ -58,9 +58,9 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 
 
-| Languages/ Applications   |      Major Libraries      |  
-|:--------------------------|:-------------------------:|
-| PowerBI                  |                       N/A |
+| Applications   | 
+|:--------------------------|
+| PowerBI                  |       
 
 
 
