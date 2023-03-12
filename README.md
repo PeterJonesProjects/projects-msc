@@ -28,44 +28,11 @@ Each project below outlines the objective, methods used and a data set (if legal
 ## Stock Management & Billing Application
 
 
-
-
 | Content | Languages | Applications|Major Libraries|
 | ---------------- | ---------------- |--------------|--------------|
 |      __Project goal:__ An introduction to software engineering. Develop a user-friendly stock management system to efficiently manage inventory and produce receipts.<br><br>  __Data:__   The system reads in a CSV file of items and their details and converts it to a list.<br><br> __Features:__ Full user input, no need to run any code. Six functions available, including full stock list and creating receipts. Search function returns a list of matching items and their details. <br><br>__Programming practices:__ Emphasizes object orientation, unit testing, and exception handling. Clear code documentation and naming conventions. <br><br>__Outcome:__ An excellent tool for businesses to efficiently manage their inventory. Provides multiple functions to suit different inventory management needs. Well-designed and easy to modify/update inventory as needed.| Python |PyCharm |abc<br>Numpy<br>unittest<br>os
 
-## Stock Management & Billing Application
 
-
-
-
-| Content | Languages | Applications|Major Libraries|
-| ---------------- | ---------------- |--------------|--------------|
-|     <ul><li> __Project goal:__ An introduction to software engineering. Develop a user-friendly stock management system to efficiently manage inventory and produce receipts.</li> <br><br> <li> __Data:__   The system reads in a CSV file of items and their details and converts it to a list.</li><br><br> <li>__Features:__ Full user input, no need to run any code. Six functions available, including full stock list and creating receipts. Search function returns a list of matching items and their details.</li> <br><br> <li>__Programming practices:__ Emphasizes object orientation, unit testing, and exception handling. Clear code documentation and naming conventions.</li> <br><br><li>__Outcome:__ An excellent tool for businesses to efficiently manage their inventory. Provides multiple functions to suit different inventory management needs. Well-designed and easy to modify/update inventory as needed.</li><ul> | Python |PyCharm |abc<br>Numpy<br>unittest<br>os
-
-
-
-
-## Stock Management & Billing Application
-
-* __Project goal:__ An introduction to software engineering. Develop a user-friendly stock management system to efficiently manage inventory and produce receipts.
-
-* __Data:__ The system reads in a CSV file of items and their details and converts it to a list.
-
-* __Features:__ Full user input, no need to run any code. Six functions available, including full stock list and creating receipts. Search function returns a list of matching items and their details.
-
-* __Programming practices:__ Emphasizes object orientation, unit testing, and exception handling. Clear code documentation and naming conventions.
-
-* __Outcome:__ An excellent tool for businesses to efficiently manage their inventory. Provides multiple functions to suit different inventory management needs. Well-designed and easy to modify/update inventory as needed.
-  
-
-
-
-
-
-| Languages| Applications   |  Major Libraries |  
-|:--------------------------|:--------|:-------------------------|
-| Python                 |PyCharm|abc<br>Numpy<br>unittest<br>os|
 
 
 
@@ -86,5 +53,11 @@ Each project below outlines the objective, methods used and a data set (if legal
 |:--------------------------|
 | PowerBI                  |       
 
+## Visualisation of Epidemic Data
 
+
+| Content |  Applications|
+| ----------------  |--------------|
+|      __Project goal:__ Visualizing the impact of an airborne disease outbreak through simulations..<br><br>  __Data:__ Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics.<br><br>__Objective:__ Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.
+ <br><br>__Outcome:__ Effective visualization of the outbreak impact and uncertainty. Easily understandable for those not statistically literate.|PowerBI   |
 
