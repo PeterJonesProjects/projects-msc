@@ -13,7 +13,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 | Content | Languages|Applications | Major Libraries |
 |:----------------|:--------------:| -----------|----------|
-|  __Project Goal:__ To create a data processing pipeline using Spark on Microsoft Azure Databricks to engineer NYC taxi rides dataset and gain insights into the data.<br><br> __Data:__ NYC taxi rides dataset.<br><br> __Objective:__ To develop a scalable data processing pipeline in Spark using pyspark.api to explore the data, perform data cleaning and transformation, and extract insights.<br><br> __Outcome:__ Successful creation of a data processing pipeline using Spark on Azure Databricks, and insights gained into the NYC taxi rides dataset. <br><br> Theoretical: The project provided hands-on experience with parallel data processing, implicit parallelism, and scaling with input size. |Python |DataBricks <br><br> Apache spark | pyspark.api |
+|  __Project Goal:__ To create a data processing pipeline using Spark on Microsoft Azure Databricks to engineer NYC taxi rides dataset and gain insights into the data.<br><br> __Data:__ NYC taxi rides dataset.<br><br> __Objective:__ To develop a scalable data processing pipeline in Spark using pyspark.api to explore the data, perform data cleaning and transformation, and extract insights.<br><br> __Outcome:__ Successful creation of a data processing pipeline using Spark on Azure Databricks, and insights gained into the NYC taxi rides dataset. Strong knowledge of parallel data processing, implicit parallelism, and scaling with input size gained. |Python |DataBricks <br><br> Apache spark | pyspark.api |
 
 
 
