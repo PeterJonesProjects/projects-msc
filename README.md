@@ -19,7 +19,7 @@ The code and folders for each project will be uploded once permission is accquir
 
 ## Big Data Processing and Graph Analytics on NYC Taxi Rides Dataset
 
-The project involved analyzing data from New York taxi trips, which were provided in both relational and graph formats. The tasks for each format were different, so they were approached separately.
+_The project involved analyzing data from New York taxi trips, which were provided in both relational and graph formats. The tasks for each format were different, so they were approached separately._
 
 ### Scalable Data Engineering of NYC Taxi Rides Dataset with Spark
 
