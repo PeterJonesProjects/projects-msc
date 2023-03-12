@@ -6,7 +6,9 @@ A collection of projects undertaken in MSc Data Science (Statistics)
 Each project below outlines the objective, methods used and a data set (if legally availbale to share)
 
 ## Stock Management & Billing Application
+
 <div align="left">
+
 *__Project goal:__ Developing a stock management system software to efficiently manage inventory and produce receipts.
 
 *__Data:__ The system reads in a CSV file of items and their details, which is then converted into a list. The system also allows users to add, edit, and delete item details, as well as search for items based on name, category, sell price, and perishability.
@@ -14,7 +16,9 @@ Each project below outlines the objective, methods used and a data set (if legal
 *__Project objective:__ Designing a user-friendly and functional stock management system in Python that emphasizes good programming practices, including object orientation, unit testing, and exception handling.
 
 *__Project outcome:__ An efficient and well-designed stock management system that provides multiple functions to suit different inventory management needs. The system is user-friendly, allowing users to modify and update their inventory as needed without requiring any code to be run. The system also includes clear code documentation and naming conventions, making it easy for users to navigate and understand the application.
+  
 </div>
+
 <div align="right">
 
 | Languages/Applications   |      Major Libraries      |  
