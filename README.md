@@ -73,9 +73,9 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 <center>
 
-| Project Outcome          | Languages/Applications   |      Major Libraries      |  
-|--------------------------|--------------------------|:-------------------------:|
-|    Effective visualization of the outbreak impact and uncertainty. | PowerBI | N/A |
+|Project Objective| Project Outcome          | Languages/Applications   |      Major Libraries      |  
+|------------------|--------------------------|--------------------------|:-------------------------:|
+|Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.|    Effective visualization of the outbreak impact and uncertainty. | PowerBI | N/A |
 
 </center>
 
