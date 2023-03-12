@@ -14,7 +14,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 * __Project objective:__ Building classifiers using statistical methods such as logistic regression and linear discriminant analysis (LDA) and evaluating their performance through cross-validation.
 
-* __Project outcome:__ The project successfully developed classifiers to predict breast cancer presence using statistical methods, and demonstrated the effectiveness of these methods in identifying predictors of cancer presence. A mathemcatical question relating to logistic regression and linear discriminant analysis was also answered.
+* __Outcome:__ The project successfully developed classifiers to predict breast cancer presence using statistical methods, and demonstrated the effectiveness of these methods in identifying predictors of cancer presence. A mathemcatical question relating to logistic regression and linear discriminant analysis was also answered.
 
 
 | Languages| Applications   |      Major Libraries      |  
