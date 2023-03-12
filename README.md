@@ -7,6 +7,14 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 ***
 
+## Bayesian Analysis of Cross Country Race Times: Predominantly Course Effects
+
+| Content | Languages|Applications | Major Libraries |
+|:----------------|:--------------:| -----------|----------|
+|  __Project Goal:__ Utilize Bayesian methods to perform inference on data from a cross country racing league, in order to explain the variation in race times using other variables in the dataset.<br><br> __Data:__Data concerning race times and other characteristics of the racers. ("NEHL Dataset").<br><br> __Objective:__ Use Markov chain Monte Carlo simulation to create statistical models for inference on the data, focusing on Bayesian methods.<br><br> __Outcome:__ Selection of the final statistical model, evaluated using diagnostics and reasoned comparison. |R<br><br>JAGS|Rstudio<br><br>Rmarkdown | rjags<br><br>conda |
+
+***
+
 ## Big Data Processing and Graph Analytics on NYC Taxi Rides Dataset
 
 ### Scalable Data Engineering of NYC Taxi Rides Dataset with Spark
