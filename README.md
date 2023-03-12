@@ -19,7 +19,7 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 
 | Content | Languages | Applications|Major Libraries|
-| ---------------- | ---------------- |--------------|--------------|
+| ---------------- |: ----------------: |--------------|--------------|
 |      __Project goal:__ An introduction to software engineering. Develop a user-friendly stock management system to efficiently manage inventory and produce receipts.<br><br>  __Data:__   The system reads in a CSV file of items and their details and converts it to a list.<br><br> __Features:__ Full user input, no need to run any code. Six functions available, including full stock list and creating receipts. Search function returns a list of matching items and their details. <br><br>__Programming practices:__ Emphasizes object orientation, unit testing, and exception handling. Clear code documentation and naming conventions. <br><br>__Outcome:__ An excellent tool for businesses to efficiently manage their inventory. Provides multiple functions to suit different inventory management needs. Well-designed and easy to modify/update inventory as needed.| Python |PyCharm |abc<br>Numpy<br>unittest<br>os
    
 
