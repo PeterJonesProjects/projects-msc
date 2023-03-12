@@ -14,3 +14,14 @@ Each project below outlines the objective, methods used and a data set (if legal
 * Project objective: Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.
 * Visualization tool: Power BI.
 * Project outcome: Effective visualization of the outbreak impact and uncertainty.
+
+
+<center>
+
+| Languages   |      Major Libraries      |  
+|----------|:-------------:|
+| col 1 is |  left-aligned |
+| col 2 is |    centered   |  
+| col 3 is | right-aligned |   
+
+</center>
