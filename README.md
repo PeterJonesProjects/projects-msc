@@ -5,6 +5,23 @@ A collection of projects undertaken in MSc Data Science (Statistics)
 
 Each project below outlines the objective, methods used and a data set (if legally availbale to share)
 
+
+## Classification of Breast Tissue Samples using Statistical Methods
+
+* __Project goal:__ Developing classifiers for predicting cancer presence in breast tissue samples using cytological characteristics data.
+
+* __Data:__ Cytological characteristics data from breast tissue samples.
+
+* __Project objective:__ Building classifiers using statistical methods such as logistic regression and linear discriminant analysis (LDA) and evaluating their performance through cross-validation.
+
+* __Project outcome:__ The project successfully developed classifiers to predict breast cancer presence using statistical methods, and demonstrated the effectiveness of these methods in identifying predictors of cancer presence. A mathemcatical question relating to logistic regression and linear discriminant analysis was also answered.
+
+
+| Languages/ Applications   |      Major Libraries      |  
+|:--------------------------|:-------------------------:|
+| R                  |                  bestglm<br>glmnet<br>MASS |
+
+
 ## Stock Management & Billing Application
 
 * __Project goal:__ An introduction to software engineering. Develop a user-friendly stock management system to efficiently manage inventory and produce receipts.
