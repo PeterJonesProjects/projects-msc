@@ -21,9 +21,9 @@ Each project below outlines the objective, methods used and a data set (if legal
 
 <div align="right">
 
-| Languages/Applications   |      Major Libraries      |  
+| Languages/Applications   | Major Libraries|  
 |:----------|:-------------:|
-| Python|  abc<br>Numpy<br>unittest<br>os|
+| Python   |  abc<br>Numpy<br>unittest<br>os|
 
 
 </div>
