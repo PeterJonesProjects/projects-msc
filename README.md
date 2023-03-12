@@ -49,12 +49,12 @@ Each project below outlines the objective, methods used and a data set (if legal
 * __Project outcome:__ Effective visualization of the outbreak impact and uncertainty.
 
 
-<center>
+
 | Languages/Applications   |      Major Libraries      |  
-|--------------------------|:-------------------------:|
+|:--------------------------|:-------------------------:|
 | PowerBI                  |                       N/A |
 
-</center>
+
 
 
 
