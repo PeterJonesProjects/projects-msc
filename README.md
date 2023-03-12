@@ -12,16 +12,13 @@ Each project below outlines the objective, methods used and a data set (if legal
 * Project goal: Visualizing the impact of an airborne disease outbreak through simulations.
 * Data: Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics.
 * Project objective: Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations.
-* Visualization tool: Power BI.
 * Project outcome: Effective visualization of the outbreak impact and uncertainty.
 
 
 <center>
 
-| Languages   |      Major Libraries      |  
+| Languages/Applications   |      Major Libraries      |  
 |----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |  
-| col 3 is | right-aligned |   
+| PowerBI |  N/A |
 
 </center>
