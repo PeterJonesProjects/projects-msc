@@ -17,9 +17,9 @@ Each project below outlines the objective, methods used and a data set (if legal
 * __Project outcome:__ The project successfully developed classifiers to predict breast cancer presence using statistical methods, and demonstrated the effectiveness of these methods in identifying predictors of cancer presence. A mathemcatical question relating to logistic regression and linear discriminant analysis was also answered.
 
 
-| Languages/ Applications   |      Major Libraries      |  
-|:--------------------------|:-------------------------:|
-| R                  |                  bestglm<br>glmnet<br>MASS |
+| Languages| Applications   |      Major Libraries      |  
+|:--------------------------|:--------|:-------------------------:|
+| R                  |Rstudio<br> -R markdown|                  bestglm<br>glmnet<br>MASS |
 
 
 ## Stock Management & Billing Application
