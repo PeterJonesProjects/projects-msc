@@ -7,19 +7,21 @@ Each project below outlines the overall goal, project objective, methods used an
 
 The code and folders for each project will be uploded once permission is accquired.
 
+Each project was completed in parallel with another project, with a one-week learning period prior to beginning each project to understand the fundamentals behind the system or statistical process.
+
 ***
 
 ## Bayesian Analysis of Cross Country Race Times: Predominantly Course Effects
 
 | Content | Languages|Applications | Major Libraries |
 |:----------------|:--------------:| -----------|----------|
-|  __Project Goal:__ Utilize Bayesian methods to perform inference on data from a cross country racing league, in order to explain the variation in race times using other variables in the dataset.<br><br> __Data:__ Data concerning race times and other characteristics of the racers. ("NEHL Dataset").<br><br> __Objective:__ Use Markov chain Monte Carlo simulation to create statistical models for inference on the data, focusing on Bayesian methods.<br><br> __Outcome:__ Selection of the final statistical model, evaluated using diagnostics and reasoned comparison.<br><br> __Theoretical:__ Along with this project, 5 theoretical questions in Bayesian methodology were explored by implementing them both by hand and using Rjags. |R<br><br>JAGS|Rstudio<br><br>Rmarkdown | rjags<br><br>conda |
+|  __Project Goal:__ Utilise Bayesian methods to perform inference on data from a cross country racing league, in order to explain the variation in race times using other variables in the dataset.<br><br> __Data:__ Data concerning race times and other characteristics of the racers. ("NEHL Dataset").<br><br> __Objective:__ Use Markov chain Monte Carlo simulation to create statistical models for inference on the data, focusing on Bayesian methods.<br><br> __Outcome:__ Selection of the final statistical model, evaluated using diagnostics and reasoned comparison.<br><br> __Theoretical:__ Along with this project, 5 theoretical questions in Bayesian methodology were explored by implementing them both by hand and using Rjags. |R<br><br>JAGS|Rstudio<br><br>Rmarkdown | rjags<br><br>conda |
 
 ***
 
 ## Big Data Processing and Graph Analytics on NYC Taxi Rides Dataset
 
-_The project involved analyzing data from New York taxi trips, which were provided in both relational and graph formats. The tasks for each format were different, so they were approached separately._
+_The project involved analysing data from New York taxi trips, which were provided in both relational and graph formats. The tasks for each format were different, so they were approached separately._
 
 ### Scalable Data Engineering of NYC Taxi Rides Dataset with Spark
 
@@ -39,7 +41,7 @@ _The project involved analyzing data from New York taxi trips, which were provid
 ## Time Series Analysis & Forecasting of Monthly Product Sales
 | Content | Languages|Applications | Major Libraries |
 |:----------------|:--------------:| -----------|----------|
-|  __Project goal:__ To analyze and forecast monthly sales data for a product over a period of ten years and identify the best statistical model for predicting future sales based on historical sales data.<br><br>__Data:__ Monthly sales data for a product over a period of ten years.<br><br>__Objective:__ To identify the most accurate statistical model for predicting future sales by fitting several models to the sales data, including ARIMA models, time series regression models, and dynamic linear models (DLMs), and evaluating the performance of these models using various error metrics.<br><br> __Outcome:__ Identification of the 'best' prediction model and using this to forecast the next 6 months of data. <br><br> __Theoretical:__ Two mathematical questions related to time series theory. These questions added an academic component to the project and allowed for a deeper understanding of the statistical models used in the analysis. | R |Rstudio <br><br>   Rmarkdown | bestglm<br><br>glmnet<br><br>MASS |
+|  __Project goal:__ To analyse and forecast monthly sales data for a product over a period of ten years and identify the best statistical model for predicting future sales based on historical sales data.<br><br>__Data:__ Monthly sales data for a product over a period of ten years.<br><br>__Objective:__ To identify the most accurate statistical model for predicting future sales by fitting several models to the sales data, including ARIMA models, time series regression models, and dynamic linear models (DLMs), and evaluating the performance of these models using various error metrics.<br><br> __Outcome:__ Identification of the 'best' prediction model and using this to forecast the next 6 months of data. <br><br> __Theoretical:__ Two mathematical questions related to time series theory. These questions added an academic component to the project and allowed for a deeper understanding of the statistical models used in the analysis. | R |Rstudio <br><br>   Rmarkdown | bestglm<br><br>glmnet<br><br>MASS |
    
 *** 
 
@@ -48,7 +50,7 @@ _The project involved analyzing data from New York taxi trips, which were provid
 
  Content | Languages|Applications | Major Libraries 
 :----------------|:--------------:| -----------|----------
-|  __Project goal:__ Gain insights that could help course providers make improvements to the course content and delivery.<br><br>__Data:__ Cytological characteristics data from breast tissue samples.<br><br>__Objective:__ Utilize the **CRISP-DM** process to complete two cycles of data analysis, applying a wide range of skills learned from dplyr and ggplot2 to gain insights from the MOOC data set. Develop a comprehensive understanding of the data, analyze it, and derive insights that can improve the course content and delivery. Ensure that the project is reproducible by using Project Template and sharing the code and documentation.<br><br> __Outcome:__ A reprodcuible report providing strong insights into the MOOC dataset. | R |Rstudio <br><br> Rmarkdown | dlm|
+|  __Project goal:__ Gain insights that could help course providers make improvements to the course content and delivery.<br><br>__Data:__ Cytological characteristics data from breast tissue samples.<br><br>__Objective:__ Utilise the **CRISP-DM** process to complete two cycles of data analysis, applying a wide range of skills learned from dplyr and ggplot2 to gain insights from the MOOC data set. Develop a comprehensive understanding of the data, analyse it, and derive insights that can improve the course content and delivery. Ensure that the project is reproducible by using Project Template and sharing the code and documentation.<br><br> __Outcome:__ A reprodcuible report providing strong insights into the MOOC dataset. | R |Rstudio <br><br> Rmarkdown | dlm|
 
    
 *** 
