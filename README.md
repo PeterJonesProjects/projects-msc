@@ -7,7 +7,7 @@ Each project below outlines the overall goal, project objective, methods used an
 
 The code and folders for each project will be uploded once permission is accquired.
 
-Each project was completed in parallel with another project, with a one-week learning period prior to beginning each project to understand the fundamentals behind the system or statistical process.
+Four weeks total for a block. Each project was completed in parallel with another project during a single block, with a one-week learning period prior to beginning each project to understand the fundamentals behind the system or statistical process.
 
 ***
 
