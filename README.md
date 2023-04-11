@@ -5,7 +5,7 @@ A collection of projects undertaken in MSc Data Science (Statistics).
 
 Each project below outlines the overall goal, project objective, methods used and a data set (if legally availbale to share).
 
-The code and folders for each project will be uploded once permission is accquired.
+Due to concerns about potential plagiarism in future iterations of the course, I am unable to upload the code and folders for each project to my GitHub portfolio.
 
 Four weeks total for a block. Each project was completed in parallel with another project during a single block, with a one-week learning period prior to beginning each project to understand the fundamentals behind the system or statistical process.
 
