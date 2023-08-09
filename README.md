@@ -11,7 +11,7 @@ Four weeks total for a block. Each project was completed in parallel with anothe
 
 ***
 
-## Modelling Transfer Fees in Professional Football with an Emphasis on Bayesian Methods
+## Dissertation: Modelling Transfer Fees in Professional Football with an Emphasis on Bayesian Methods
 
 | Content | Languages|Applications | Major Libraries |
 |:----------------|:--------------:| -----------|----------|
