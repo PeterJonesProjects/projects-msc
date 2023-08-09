@@ -11,6 +11,19 @@ Four weeks total for a block. Each project was completed in parallel with anothe
 
 ***
 
+## Modelling Transfer Fees in Professional Football with an Emphasis on Bayesian Methods
+
+| Content | Languages|Applications | Major Libraries |
+|:----------------|:--------------:| -----------|----------|
+|  __Project Goal:__ Develop a transparent and equitable model for predicting football player transfer fees using Bayesian methods.<br><br> __Data:__ Sources: TransferMarkt and Understat/
+Metrics Include: player_name, age, time_since_last_transfer, transfer_period, fee_cleaned, club_name, club_involved_name, league_name, general_position, mean_3yr_prev, mean_3yr_prev_sell, goals, shots, assists, xA, xG, key_passes, yellow, red, xGChain, xGBuildup, fee_cleaned_log.
+<br><br> __Objective:__ To demystify the valuation of player transfers in professional football by leveraging the transparency of Bayesian approaches combined with the power to incorporate prior knowledge.<br><br> __Outcome:__ * The Bayesian approach was found to be effective in providing interpretability, handling uncertainty, and incorporating prior knowledge.
+* Highlighted the significance of certain player metrics in relation to transfer fees.
+* Identified data quality and external factors as potential challenges that need to be addressed for more accurate predictions.<br><br> __Theoretical:__ * Bayesian models offer an alternative to machine learning methods in sports analytics due to their transparent nature.
+* The research emphasizes the importance of prior knowledge, transparency, and interpretability in the valuation of player transfers.|R<br><br>JAGS|Rstudio<br><br>Rmarkdown | rjags<br><br>conda |
+
+***
+
 ## Bayesian Analysis of Cross Country Race Times: Predominantly Course Effects
 
 | Content | Languages|Applications | Major Libraries |
