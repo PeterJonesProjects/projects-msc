@@ -2,8 +2,6 @@
 ## TO BE UPDATED ONCE THE DISSERTATION HAS BEEN COMPLETED
 A collection of projects undertaken in MSc Data Science (Statistics).
 
-7/8 projects completed with the masters still ongoing.
-
 Each project below outlines the overall goal, project objective and methods used.
 
 Due to concerns about potential plagiarism in future iterations of the course, I am unable to upload the code and folders for each project to my GitHub portfolio.
