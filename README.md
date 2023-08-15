@@ -1,4 +1,5 @@
 # MSc Data Science Projects Outline
+## TO BE UPDATED ONCE THE DISSERTATION HAS BEEN COMPLETED
 A collection of projects undertaken in MSc Data Science (Statistics).
 
 7/8 projects completed with the masters still ongoing.
