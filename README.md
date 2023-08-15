@@ -1,5 +1,6 @@
 # MSc Data Science Projects Outline
 ## TO BE UPDATED ONCE THE DISSERTATION HAS BEEN COMPLETED
+## PROJECTS IN MORE DETAIL ON https://peterjonesprojects.github.io/PeterJonesPortfolio/
 A collection of projects undertaken in MSc Data Science (Statistics).
 
 Each project below outlines the overall goal, project objective and methods used.
