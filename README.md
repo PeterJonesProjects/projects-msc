@@ -8,6 +8,7 @@ Due to concerns about potential plagiarism in future iterations of the course, I
 
 Four weeks total for a block. Each project was completed in parallel with another project during a single block, with a one-week learning period prior to beginning each project to understand the fundamentals behind the system or statistical process.
 
+PROJECTS IN MORE DETAIL ON https://peterjonesprojects.github.io/PeterJonesPortfolio/
 ***
 
 ## Dissertation: Modelling Transfer Fees in Professional Football with an Emphasis on Bayesian Methods
