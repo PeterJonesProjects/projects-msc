@@ -1,6 +1,6 @@
 # MSc Data Science Projects Outline
 ## TO BE UPDATED ONCE THE DISSERTATION HAS BEEN COMPLETED
-## PROJECTS IN MORE DETAIL ON https://peterjonesprojects.github.io/PeterJonesPortfolio/
+## Detailed Portfolio: https://peterjonesprojects.github.io/PeterJonesPortfolio/
 A collection of projects undertaken in MSc Data Science (Statistics).
 
 Each project below outlines the overall goal, project objective and methods used.
@@ -9,7 +9,7 @@ Due to concerns about potential plagiarism in future iterations of the course, I
 
 Four weeks total for a block. Each project was completed in parallel with another project during a single block, with a one-week learning period prior to beginning each project to understand the fundamentals behind the system or statistical process.
 
-PROJECTS IN MORE DETAIL ON https://peterjonesprojects.github.io/PeterJonesPortfolio/
+
 ***
 
 ## Dissertation: Modelling Transfer Fees in Professional Football with an Emphasis on Bayesian Methods
